@@ -11,7 +11,7 @@ A Solidity-based application for tracking budgets and expenses with smart contra
    ```bash
    git clone https://github.com/username/budget-expense-tracker.git
    ```
-2. Compile and deploy the contracts using Remix or any preferred Solidity tool.
+2. Compile and deploy the contracts using Remix or any preferred Solidity tool .
 
 ## Usage
 - Use the `addBudget()` function to create a new budget.
